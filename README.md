@@ -2,8 +2,9 @@
 
 ## 🔗 Links
 
-* 🔴 Solution URL: https://github.com/your-username/blog-preview-card
-* 🟢 Live Site: https://your-project.vercel.app
+* 🔴 Solution URL: https://github.com/Charlie38-DevLab/blog-preview-card-challenge-08.git
+* 🟢 Live Site: https://blog-preview-card-challenge-08.vercel.app/
+* 🟢 Live Site: https://charlie38-devlab.github.io/blog-preview-card-challenge-08/
 
 ---
 
@@ -63,3 +64,11 @@ Responsive blog preview card using modern CSS and clamp()
 * SEO best practices
 
 ---
+
+## 👨‍💻 Auteur
+Charlie CréaTech -- AGBAYAHOUN L.Charlie
+
+LinkedIn : https://www.linkedin.com/in/charlie-cr%C3%A9atech-46b8753a9/
+
+## 🙌 Remerciements
+Merci à Frontend Mentor pour ce défi. 🚀
